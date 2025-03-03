@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+openpyxl
+beautifulsoup4
+lxml
