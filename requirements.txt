@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-watchdog
-openpyxl
-beautifulsoup4
-reportlab
-num2words
